@@ -1,5 +1,6 @@
 .gradle/
 build/
+release-files/
 run/
 run-data/
 .idea/
